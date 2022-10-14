@@ -1,4 +1,4 @@
-# Codechef Competitive Programming (C, RUST, Javascript)
+# Codechef CP (C, RUST, Javascript)
 
 | No  | Code |      Name       | Difficulty | Langauge |
 | :-: | :--: | :-------------: | :--------: | :------: |
