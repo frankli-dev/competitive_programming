@@ -1,8 +1,9 @@
 # Codechef CP (C, RUST, Javascript)
 
-| No  | Code |      Name       | Difficulty | Langauge |
-| :-: | :--: | :-------------: | :--------: | :------: |
-|  1  | CABS | The Cheaper Cab |    399     |   Rust   |
+| No  |   Code   |       Name        | Difficulty | Langauge |
+| :-: | :------: | :---------------: | :--------: | :------: |
+|  1  |   CABS   |  The Cheaper Cab  |    399     |   Rust   |
+|  2  | MAKEDIV3 | Make it Divisible |     -      |   Rust   |
 
 | No  |  Code   |           Name            | Difficulty | Langauge |
 | :-: | :-----: | :-----------------------: | :--------: | :------: |
