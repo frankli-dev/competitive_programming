@@ -1,9 +1,14 @@
 # Codechef CP (C, RUST, Javascript)
 
-| No  |   Code   |       Name        | Difficulty | Langauge |
-| :-: | :------: | :---------------: | :--------: | :------: |
-|  1  |   CABS   |  The Cheaper Cab  |    399     |   Rust   |
-|  2  | MAKEDIV3 | Make it Divisible |     -      |   Rust   |
+| No  |   Code    |           Name           | Difficulty | Langauge |
+| :-: | :-------: | :----------------------: | :--------: | :------: |
+|  1  |   CABS    |     The Cheaper Cab      |    399     |   Rust   |
+|  2  | MAKEDIV3  |    Make it Divisible     |     -      |   Rust   |
+|  3  | INDIPERM  | Indivisible Permutation  |     -      |   Rust   |
+|  4  | MINPIZZAS | Minimum Number of Pizzas |     -      |   Rust   |
+|  5  | MANYSUMS  |    Distinct Pair Sums    |     -      |   Rust   |
+|  6  |    NFS    |         Turn It          |     -      |   Rust   |
+|  7  |   ALTER   |  Alternating Work Days   |     -      |   Rust   |
 
 | No  |  Code   |           Name            | Difficulty | Langauge |
 | :-: | :-----: | :-----------------------: | :--------: | :------: |
