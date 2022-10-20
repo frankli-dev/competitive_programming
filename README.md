@@ -10,6 +10,7 @@
 |  6  |    NFS    |         Turn It          |     -      |   Rust   |
 |  7  |   ALTER   |  Alternating Work Days   |     -      |   Rust   |
 |  8  | MAXCROSS  |     Maximal crosses      |    1570    |   Rust   |
+|  9  | RBFLOWERS |     Red Blue Flowers     |    1936    |   Rust   |
 
 | No  |    Code     |           Name            | Difficulty | Langauge |
 | :-: | :---------: | :-----------------------: | :--------: | :------: |
