@@ -10,7 +10,9 @@
 |  6  |    NFS    |         Turn It          |     -      |   Rust   |
 |  7  |   ALTER   |  Alternating Work Days   |     -      |   Rust   |
 |  8  | MAXCROSS  |     Maximal crosses      |    1570    |   Rust   |
-|  9  | RBFLOWERS |     Red Blue Flowers     |    1936    |   Rust   |
+|  9  |  PARTPAL  |         PARTPAL          |    1700    |   Rust   |
+| 10  | RBFLOWERS |     Red Blue Flowers     |    1936    |   Rust   |
+| 11  |  PARTPAL  |   Palindrome Partition   |    2090    |   Rust   |
 
 | No  |    Code     |           Name            | Difficulty | Langauge |
 | :-: | :---------: | :-----------------------: | :--------: | :------: |
@@ -32,5 +34,8 @@
 | 10  |   MGCRNK    |          Magic Rankings          |    1540    |    JS    |
 | 11  |   KPRIME    |          Count K-Primes          |    1549    |    JS    |
 | 12  |   MINLCS    |           Minimise LCS           |    1367    |    JS    |
-| 13  | SUBARRAYREM |         Subarray Removal         |    1505    |    JS    |
-| 14  |   ARRPAL    |  Yet Another Palindrome Problem  |    1594    |    JS    |
+| 13  |  SPLITPAL   |     Palindrome by Splitting      |    1540    |    JS    |
+| 14  | SUBARRAYREM |         Subarray Removal         |    1505    |    JS    |
+| 15  | GOODBINSTR  |        Good Binary String        |    1573    |    JS    |
+| 16  |   ARRPAL    |  Yet Another Palindrome Problem  |    1594    |    JS    |
+| 17  |   CNCTCT    |        Connect All Cities        |    2417    |    JS    |
